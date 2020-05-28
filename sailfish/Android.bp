@@ -87,7 +87,7 @@ android_app_import {
 android_app_import {
 	name: "CarrierServices",
 	owner: "google",
-	apk: "proprietary/product/priv-app/CarrierServices/com.google.android.ims.30241213.apk",
+	apk: "proprietary/product/priv-app/CarrierServices/com.google.android.ims.30241225.apk",
 	presigned: true,
 	dex_preopt: {
 		enabled: false,
