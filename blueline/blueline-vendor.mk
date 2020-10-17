@@ -1434,7 +1434,6 @@ PRODUCT_PACKAGES += \
     libbtnv \
     TimeService \
     crosshatch_game_driver \
-    VZWAPNLib \
     com.qualcomm.qti.services.secureui \
     AmbientSensePrebuilt \
     AppDirectedSMSService \
@@ -1447,18 +1446,9 @@ PRODUCT_PACKAGES += \
     DiagMon \
     EuiccGoogle \
     EuiccSupportPixel \
-    HotwordEnrollmentOKGoogleWCD9340 \
-    HotwordEnrollmentXGoogleWCD9340 \
-    MyVerizonServices \
     OBDM_Permissions \
     OemDmTrigger \
     RilConfigService \
-    SprintDM \
-    SprintHM \
-    TmobileGrsuPrebuilt \
-    USCCDM \
-    VzwOmaTrigger \
-    WfcActivation \
     grilservice \
     obdm_stub \
     com.google.android.camera.experimental2018

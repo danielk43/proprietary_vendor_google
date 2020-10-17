@@ -361,7 +361,6 @@ PRODUCT_PACKAGES += \
     QdcmFF \
     QtiTelephonyService \
     SSRestartDetector \
-    VZWAPNLib \
     atfwd \
     colorservice \
     com.qualcomm.qti.services.secureui \
@@ -385,22 +384,14 @@ PRODUCT_PACKAGES += \
     EuiccGoogle \
     EuiccSupportPixel \
     HardwareInfo \
-    HotwordEnrollmentOKGoogleHEMIDELTA \
-    HotwordEnrollmentXGoogleHEMIDELTA \
     LLKAgent \
-    MyVerizonServices \
     OBDM_Permissions \
     OemDmTrigger \
     OsloFeedback \
     RilConfigService \
     SCONE \
     Showcase \
-    SprintDM \
-    SprintHM \
     TetheringEntitlement \
-    USCCDM \
-    VzwOmaTrigger \
-    WfcActivation \
     grilservice \
     ims \
     obdm_stub \
