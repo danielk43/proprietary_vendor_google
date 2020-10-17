@@ -178,7 +178,6 @@ PRODUCT_PACKAGES += \
     uceShimService \
     CNEService \
     qcrilmsgtunnel \
-    VZWAPNLib \
     com.qualcomm.qti.services.secureui \
     AppDirectedSMSService \
     CarrierServices \
@@ -191,18 +190,9 @@ PRODUCT_PACKAGES += \
     DiagMon \
     EuiccGoogle \
     EuiccSupportPixel \
-    HotwordEnrollmentOKGoogleRT5514 \
-    HotwordEnrollmentXGoogleRT5514 \
-    MyVerizonServices \
     OBDM_Permissions \
     OemDmTrigger \
     RilConfigService \
-    SprintDM \
-    SprintHM \
-    TmobileGrsuPrebuilt \
-    USCCDM \
-    VzwOmaTrigger \
-    WfcActivation \
     grilservice \
     obdm_stub \
     QtiTelephonyServicelibrary \
