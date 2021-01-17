@@ -133,7 +133,6 @@ PRODUCT_PACKAGES += \
     OemDmTrigger \
     VzwOmaTrigger \
     qcrilmsgtunnel \
-    VZWAPNLib \
     CarrierServices \
     CarrierSettings \
     CarrierSetup \
@@ -141,13 +140,7 @@ PRODUCT_PACKAGES += \
     DCMO \
     DMService \
     DiagMon \
-    HotwordEnrollmentOKGoogleWCD9335 \
-    HotwordEnrollmentXGoogleWCD9335 \
-    MyVerizonServices \
     OBDM_Permissions \
-    SprintDM \
-    SprintHM \
-    WfcActivation \
     obdm_stub \
     com.google.android.camera.experimental2016 \
     qcrilhook
@@ -837,8 +830,6 @@ PRODUCT_PACKAGES += \
     imssettings \
     radioconfig \
     shutdownlistener \
-    vzw_msdc_api \
     QtiTelephonyServicelibrary \
     embmslibrary \
-    qti-vzw-ims-internal \
     rcsservice

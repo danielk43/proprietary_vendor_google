@@ -346,7 +346,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     QdcmFF \
     QtiTelephonyService \
-    VZWAPNLib \
     atfwd \
     colorservice \
     com.qualcomm.qti.services.secureui \
@@ -368,19 +367,12 @@ PRODUCT_PACKAGES += \
     EuiccGoogle \
     EuiccSupportPixel \
     HardwareInfo \
-    HotwordEnrollmentOKGoogleHEMIDELTA \
-    HotwordEnrollmentXGoogleHEMIDELTA \
     LLKAgent \
-    MyVerizonServices \
     OBDM_Permissions \
     OemDmTrigger \
     RilConfigService \
-    SprintDM \
-    SprintHM \
     TetheringEntitlement \
     USCCDM \
-    VzwOmaTrigger \
-    WfcActivation \
     grilservice \
     ims \
     obdm_stub \

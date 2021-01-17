@@ -189,7 +189,6 @@ PRODUCT_PACKAGES += \
     OemDmTrigger \
     VzwOmaTrigger \
     qcrilmsgtunnel \
-    VZWAPNLib \
     AmbientSensePrebuilt \
     AppDirectedSMSService \
     CarrierServices \
@@ -203,14 +202,8 @@ PRODUCT_PACKAGES += \
     EuiccGoogle \
     EuiccSupportPixel \
     HardwareInfo \
-    HotwordEnrollmentOKGoogleWCD9340 \
-    HotwordEnrollmentXGoogleWCD9340 \
-    MyVerizonServices \
     OBDM_Permissions \
-    SprintDM \
-    SprintHM \
     TetheringEntitlement \
-    WfcActivation \
     obdm_stub \
     cneapiclient \
     com.google.android.camera.experimental2017 \
@@ -994,4 +987,3 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     TimeService \
     wahoo_gfxdrv \
-    qti-vzw-ims-internal
